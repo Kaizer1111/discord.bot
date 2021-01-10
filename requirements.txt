@@ -1,4 +1,0 @@
-discord.py==1.5.1
-random==
-from discord.ext import commands
-import asyncio
